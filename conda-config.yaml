@@ -1,0 +1,7 @@
+name: "My Panel App (Git)"
+description: "This is a panel app created from git repository"
+framework: "streamlit"
+filepath: "server.py"
+keep_alive: "true"
+public: "true"
+thumbnail_path: "../../../../../../../etc/passwd"
